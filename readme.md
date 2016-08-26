@@ -3,6 +3,8 @@ Fantasy Garage
 
 Vanilla Javascript project in-class to review variables, functions, objects, and arrays. New in this project: DOM additions/basic manipulation.
 
+From the in class lecture 8-25-2016 and 8-26-2016.
+
 Versions/Branches
 ------------
 * 0.1 - html/js handshake [x]
@@ -13,4 +15,4 @@ Versions/Branches
 * 0.6 - display cars on DOM [x]
 * 0.7 - clear inputs [x]
 * 0.8 - check for empties [x]
-* 0.9 - remove a displayed car (take out for a drive) [ ]
+* 0.9 - remove a displayed car (take out for a drive) [x]
