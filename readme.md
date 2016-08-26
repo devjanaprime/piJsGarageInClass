@@ -13,4 +13,4 @@ Versions/Branches
 * 0.6 - display cars on DOM [x]
 * 0.7 - clear inputs [x]
 * 0.8 - check for empties [x]
-* 0.9 -
+* 0.9 - remove a displayed car (take out for a drive) [ ]
